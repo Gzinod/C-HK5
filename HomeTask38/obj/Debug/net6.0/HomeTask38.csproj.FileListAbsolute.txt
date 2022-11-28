@@ -1,0 +1,15 @@
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\HomeTask38.csproj.AssemblyReference.cache
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\HomeTask38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\HomeTask38.AssemblyInfoInputs.cache
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\HomeTask38.AssemblyInfo.cs
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\HomeTask38.csproj.CoreCompileInputs.cache
+C:\Games\Study\C#HK5\HomeTask38\bin\Debug\net6.0\HomeTask38.exe
+C:\Games\Study\C#HK5\HomeTask38\bin\Debug\net6.0\HomeTask38.deps.json
+C:\Games\Study\C#HK5\HomeTask38\bin\Debug\net6.0\HomeTask38.runtimeconfig.json
+C:\Games\Study\C#HK5\HomeTask38\bin\Debug\net6.0\HomeTask38.dll
+C:\Games\Study\C#HK5\HomeTask38\bin\Debug\net6.0\HomeTask38.pdb
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\HomeTask38.dll
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\refint\HomeTask38.dll
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\HomeTask38.pdb
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\HomeTask38.genruntimeconfig.cache
+C:\Games\Study\C#HK5\HomeTask38\obj\Debug\net6.0\ref\HomeTask38.dll
